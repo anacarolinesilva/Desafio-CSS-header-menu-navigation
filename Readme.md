@@ -1,4 +1,4 @@
-Crie o <header> de um site que contenha uma logo e um menu
+Crie o header de um site que contenha uma logo e um menu
 Um elemento deverá ficar ao lado do outro
 A logo que ficará na extrema esquerda e o menu ficará na extrema direita
 Os itens do menu ficarão um ao lado do outro, com um espaço de .8rem entre eles
